@@ -1,0 +1,16 @@
+/var/folders/53/2cpq0m4s1yz4rh0dwj2rq_pr0000gn/T/rider-publish15782715315560155748/api
+/var/folders/53/2cpq0m4s1yz4rh0dwj2rq_pr0000gn/T/rider-publish15782715315560155748/appsettings.Development.json
+/var/folders/53/2cpq0m4s1yz4rh0dwj2rq_pr0000gn/T/rider-publish15782715315560155748/appsettings.json
+/var/folders/53/2cpq0m4s1yz4rh0dwj2rq_pr0000gn/T/rider-publish15782715315560155748/api.dll
+/var/folders/53/2cpq0m4s1yz4rh0dwj2rq_pr0000gn/T/rider-publish15782715315560155748/api.runtimeconfig.json
+/var/folders/53/2cpq0m4s1yz4rh0dwj2rq_pr0000gn/T/rider-publish15782715315560155748/api.pdb
+/var/folders/53/2cpq0m4s1yz4rh0dwj2rq_pr0000gn/T/rider-publish15782715315560155748/Microsoft.EntityFrameworkCore.dll
+/var/folders/53/2cpq0m4s1yz4rh0dwj2rq_pr0000gn/T/rider-publish15782715315560155748/Microsoft.EntityFrameworkCore.Abstractions.dll
+/var/folders/53/2cpq0m4s1yz4rh0dwj2rq_pr0000gn/T/rider-publish15782715315560155748/Microsoft.EntityFrameworkCore.Relational.dll
+/var/folders/53/2cpq0m4s1yz4rh0dwj2rq_pr0000gn/T/rider-publish15782715315560155748/Microsoft.OpenApi.dll
+/var/folders/53/2cpq0m4s1yz4rh0dwj2rq_pr0000gn/T/rider-publish15782715315560155748/Npgsql.dll
+/var/folders/53/2cpq0m4s1yz4rh0dwj2rq_pr0000gn/T/rider-publish15782715315560155748/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/var/folders/53/2cpq0m4s1yz4rh0dwj2rq_pr0000gn/T/rider-publish15782715315560155748/Swashbuckle.AspNetCore.Swagger.dll
+/var/folders/53/2cpq0m4s1yz4rh0dwj2rq_pr0000gn/T/rider-publish15782715315560155748/Swashbuckle.AspNetCore.SwaggerGen.dll
+/var/folders/53/2cpq0m4s1yz4rh0dwj2rq_pr0000gn/T/rider-publish15782715315560155748/Swashbuckle.AspNetCore.SwaggerUI.dll
+/var/folders/53/2cpq0m4s1yz4rh0dwj2rq_pr0000gn/T/rider-publish15782715315560155748/api.deps.json

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{6DD22650-DFEB-4CB0-8E09-76C2053FC53C}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
+    <Files>
+      <File FileName="Program.cs" Line="21" Column="37" />
+      <File FileName="Services/IContatoService.cs" />
+      <File FileName="Services/ContatoService.cs" />
+      <File FileName="Services/PessoaService.cs" />
+      <File FileName="Controllers/ContatoController.cs" />
+      <File FileName="appsettings.json" Line="4" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="api">
+            <Node name="api">
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
